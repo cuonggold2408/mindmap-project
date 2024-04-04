@@ -22,3 +22,5 @@ Nguyễn Quang Cường(K67J - UET)
 ## Technologies
 ### Những công nghệ chính sử dụng trong dự án: 
 - Frontend: HTML,CSS(SCSS), Nextjs
+
+### Link deploy vercel: https://mindmap-steel.vercel.app/
